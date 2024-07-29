@@ -1,0 +1,8 @@
+matplotlib==3.8.3
+mysql_connector_repackaged==0.3.1
+numpy==1.26.4
+pandas==2.2.2
+plotly==5.20.0
+scikit_learn==1.4.1.post1
+seaborn==0.13.2
+streamlit_extras==0.4.2
