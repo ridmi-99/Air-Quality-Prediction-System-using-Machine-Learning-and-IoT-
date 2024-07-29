@@ -43,5 +43,3 @@ requirements.txt: Text file listing all Python dependencies required for the pro
 
 README.md: This file containing project documentation.
 
-Contributors
-Dissanayaka Ranaweera (10820914-StdNo) - Project Lead
